@@ -164,9 +164,9 @@ a:visited {
 }
 
 #firstname-lastname-cover {
-    background-image: url("link to my imgur cover photo");
-  }
- 
+  background-image: url("link to my imgur cover photo");
+}
+
 #firstname-lastname-card {
   background-image: url("link to my imgur card photo");
 }
