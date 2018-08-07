@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#firstname-lastname-cover {
+    background-image: url("link to my imgur cover photo");
+  }
+ 
+#firstname-lastname-card {
+  background-image: url("link to my imgur card photo");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
